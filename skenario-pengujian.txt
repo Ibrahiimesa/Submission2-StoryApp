@@ -33,8 +33,8 @@
 	* Memastikan jumlah data sesuai dengan yang diharapkan.
 
 	•Story Location
-    * Memastikan data tidak null.
-    * Memastikan jumlah data sesuai dengan yang diharapkan.
+    	* Memastikan data tidak null.
+    	* Memastikan jumlah data sesuai dengan yang diharapkan.
 
 	•Add Story
 	* Memastikan data tidak null.
