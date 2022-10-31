@@ -32,7 +32,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDD-kDWs9p_PT7X4N84bjVh8En5kF4ufHQ" />
+            android:value="INPUT_YOUR_API_KEY" />
 
         <activity
             android:name=".ui.story.AddStoryActivity"
